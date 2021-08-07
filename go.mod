@@ -1,6 +1,6 @@
-module github.com/auth0/go-jwt-middleware
+module github.com/fluffy-bunny/go-jwt-middleware
 
-go 1.14
+go 1.16
 
 require (
 	github.com/form3tech-oss/jwt-go v3.2.2+incompatible
